@@ -1,0 +1,6 @@
+.app-container{
+    background-color: black;
+    min-height: 100vh;
+    max-width: 40rem;
+    margin: 0 auto;
+}

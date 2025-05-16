@@ -1,0 +1,18 @@
+.headerBody{
+    width: 20rem;
+    margin:0 auto;
+    margin-top: 3rem;
+    /* background-color: #fff; */
+}
+
+.headerBody .headerImage{
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}
+
+.headerBody .headerText{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
